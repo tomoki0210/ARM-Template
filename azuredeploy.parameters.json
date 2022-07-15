@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "adminUsername": {
+      "value": "kondo"
+    },
+    "mysqlPassword": {
+      "value": "nelco4649!"
+    },
+    "dnsNamePrefix": {
+      "value": "nelcdcco01"
+    },
+    "adminPasswordOrKey": {
+      "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCkgeHnrNRwQsGpMuZxxXUurHc1\r\nU/UOGIFLHGTt7AkkR8EPnNJU33YV03DYNhxKZ7FwKgv94h3Q2RWk2A/T033W2hPz\r\nlHJxvKZNIoSF+C2C0qz0BPbCKG5WfeBhxgYB6JvbGyLwyy8ArrKsxG4n8M2VbCco\r\nzsIa4rZmv5579i3Qndy0TI127OOtnsBF7ey5s8gMEleMNB/H4cec0Ti85hmw8nmz\r\ndD92phGM7nRMUZgL6bo2B1d8CbKofbwa1r5/kIYOTa3eyG/9sJme9ZCfTIZZkkhi\r\nz3Low4SvJGEz8xo45Z/NlU/vrdYMmQ+j29jy1+cNrdZab3G2YjGkIqlwiwBdJNxc\r\nJAh6iR90/EoZPSa7ic0BlzJrqnkw3cu3Is9F7Z+Nya83NkxRw3pzoLWzgAFKny6v\r\nSZG3tzMZFHHoLd29tnUyyqZnsHUA5p5jB+0GdRBL5LRd+FIxtiQmJLI78b1bvTbj\r\nx4YmncaLkufDawez/A6y9cfXs0gigxLnr1Agpzk= generated-by-azure\r\n"
+    }
+  }
+}
